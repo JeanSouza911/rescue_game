@@ -2,7 +2,7 @@
 
 ## Sobre o projeto:
 
-Jogo em 2d desenvolvido no Bootcamp TakeBlip Web devoloper.
+Jogo em 2d desenvolvido no Bootcamp TakeBlip Web developer.
 
 ## Tecnologias utilizadas:
 
