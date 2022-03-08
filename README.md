@@ -1,20 +1,26 @@
-# Resgate game
+# Rescue game
 
 ## Sobre o projeto:
 
 Jogo em 2d desenvolvido no Bootcamp TakeBlip Web devoloper.
 
-## Layout:
-
-![Web]()
-
 ## Tecnologias utilizadas:
 
 HTML
+
 CSS
+
 JavaScript
+
 Library - jQuery
+
 Fontes - dafont/An Ode To Noone
+
+
+## Layout:
+
+![Web](https://github.com/JeanSouza911/rescue_game/blob/master/assets/img/layout.png)
+
 
 # Autor:
 
