@@ -15,8 +15,8 @@ function start() {
 	var velocidade=5;
 	var podeAtirar=true;
 	var pontos=0;
-    var salvos=0;
-    var perdidos=0;
+        var salvos=0;
+        var perdidos=0;
 	var energiaAtual=3;
 
     var posicaoY = parseInt(Math.random() * 334);
@@ -28,7 +28,7 @@ function start() {
 
 	jogo.pressionou = [];
 
-	var somDisparo=document.getElementById("somDisparo");
+    var somDisparo=document.getElementById("somDisparo");
     var somExplosao=document.getElementById("somExplosao");
     var musica=document.getElementById("musica");
     var somGameover=document.getElementById("somGameover");
@@ -398,7 +398,7 @@ function start() {
 		
 }
 
-            function reiniciaJogo() {
+              function reiniciaJogo() {
 	        somGameover.pause();
 	        $("#fim").remove();
 	        start();
